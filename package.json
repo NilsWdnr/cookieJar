@@ -1,0 +1,11 @@
+{
+  "name": "cookiejar",
+  "version": "1.0.0",
+  "description": "simple package for easy cookie-handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nils Weidner",
+  "license": "ISC"
+}
